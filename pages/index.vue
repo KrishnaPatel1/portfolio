@@ -23,14 +23,12 @@
 </template>
 
 <script>
-import AppLogo from '~/components/AppLogo.vue'
 import Navbar from '~/components/Navbar.vue'
 import AboutMe from '~/components/AboutMe.vue'
 import Timeline from '~/components/Timeline.vue'
 import Extracurricular from '~/components/Extracurricular.vue'
 export default {
   components: {
-    AppLogo,
     Navbar,
     AboutMe,
     Timeline,
