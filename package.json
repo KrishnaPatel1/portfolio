@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "jquery": "^3.4.1",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "swipejs": "^2.2.14",
     "swiper": "^4.5.0"
   },
